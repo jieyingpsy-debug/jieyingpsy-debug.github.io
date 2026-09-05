@@ -1,1 +1,8 @@
-jekyll-theme-slate
+theme: jekyll-theme-minimal
+title: Jieying He
+description: Your title/position
+header_pages:
+  - About.md
+  - Research.md
+  - CV.md
+  - Contact.md
