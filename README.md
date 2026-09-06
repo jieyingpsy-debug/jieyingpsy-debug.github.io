@@ -5,11 +5,11 @@
 
 Welcome to my personal website.
 
-My name is Jieying He. I currently work as a postdoctoral researcher 
-at the Basque Center on Cognition, Brain & Language (BCBL), Spain.
+My name is Jieying He. 
 
-My research focuses on the cognitive and neural mechanisms underlying 
-language processing:
+I currently work as a postdoctoral researcher at the Basque Center on Cognition, Brain & Language (BCBL), Spain.
+
+My research focuses on the cognitive and neural mechanisms underlying language processing:
 
 - **Spoken and written language production**
 - **Speech production in the presence of background speech**
