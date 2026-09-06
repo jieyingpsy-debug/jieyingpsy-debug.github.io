@@ -1,6 +1,9 @@
 
-Hello, welcomd to my personal website.
+Welcome to my personal website.
 
-My research interests are the cognitive and neural mechanisms of 1) spoken and written language production, 2) speech production in the presence of background speech, and 3) Sign language processing.
+My name is Jieying He. I currently work as a postdoctoral researcher at the Basque Center on Cognition, Brain & Language (BCBL), Spain.
 
-I currently work as a postdoctoral researcher at Basque Center on Cognition, Brain & Language (BCBL), Spain.
+My research focuses on the cognitive and neural mechanisms underlying language processing:
+- ** Spoken and written language production
+- ** Speech production in the presence of background speech
+- ** Sign language processing 
