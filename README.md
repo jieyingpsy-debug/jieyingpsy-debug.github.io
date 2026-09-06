@@ -12,4 +12,4 @@ language processing:
 
 ---
 
-[About](about.md) | [Research](research.md) | [Publication](publication.md) | [CV](cv.md) | [Contact](contact.md)
+[Research](research.md) | [Publication](publication.md) | [CV](cv.md) | [Contact](contact.md)
