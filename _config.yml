@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: JIEYING HE
 header_pages:
-  - About.md
-  - Research.md
-  - CV.md
-  - Contact.md
+  - About
+  - Research
+  - CV
+  - Contact
