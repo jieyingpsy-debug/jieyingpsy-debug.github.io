@@ -1,3 +1,8 @@
+---
+
+[Research](research.md) | [Publication](publication.md) | [CV](cv.md) | [Contact](contact.md)
+
+
 Welcome to my personal website.
 
 My name is Jieying He. I currently work as a postdoctoral researcher 
@@ -9,7 +14,3 @@ language processing:
 - **Spoken and written language production**
 - **Speech production in the presence of background speech**
 - **Sign language processing**
-
----
-
-[Research](research.md) | [Publication](publication.md) | [CV](cv.md) | [Contact](contact.md)
