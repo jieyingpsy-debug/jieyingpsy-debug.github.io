@@ -1,9 +1,16 @@
 # Contact
 
-**Email**: jieyingpsy@gmail.com 
-**Location**: Donostia, Spain  
+**Email**
+jieyingpsy@gmail.com (preferred)
+j.he@bcbl.eu
 
-**Follow me on**:
+
+**Follow me on**
 - [GitHub](https://github.com/jieyingpsy-debug)
-- [Twitter](https://twitter.com/...)
-- [LinkedIn](https://linkedin.com/in/...)
+- [ORCID](https://twitter.com/...)
+
+
+**Address**
+Paseo Mikeletegi 69, 2º
+20009 Donostia - San Sebastián
+Spain
